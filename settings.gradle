@@ -1,0 +1,2 @@
+rootProject.name= "bar_code_scanner_generator"
+include ':app'
