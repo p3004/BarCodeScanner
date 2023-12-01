@@ -1,4 +1,4 @@
-# Google Code Scanner API Quickstart
+# Bar Code Scanner
 
 * [Read more about Google Code Scanner API](https://developers.google.com/ml-kit/code-scanner)
 
